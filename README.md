@@ -1,2 +1,9 @@
-# idX69qq
-Greene, Robert - Editorial Océano - DDC 158 - 2022 - LAS LEYES PARA TODOS LOS DÍAS idX69qq
+# Contenido
+
+Los datos del libro están en [libro.json](libro.json).
+
+[PDF en español](<BASE/PDF ES idX69qq.pdf>)
+
+Las páginas PNG conservan sus carpetas originales:
+
+- [PNGs PDF ES idX69qq](<PNGs PDF ES idX69qq/>).
