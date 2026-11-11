@@ -1,0 +1,18 @@
+{
+  "fecha": "2026-11-10",
+  "archivo": "BASE/PDF ES idX69qq.pdf",
+  "titulo_anterior": "The Daily Laws: 366 Meditations on Power, Seduction, Mastery, Strategy, and Human Nature",
+  "titulo_actual": "Leyes para todos los días",
+  "fuente": "Portadilla, página 1",
+  "autor": "Robert Greene",
+  "paginas": 420,
+  "texto_objetos_y_marcadores_identicos": true,
+  "renderizados_identicos_paginas": [
+    1,
+    2,
+    210,
+    420
+  ],
+  "sha256_anterior": "4f7becceca247dfdef07f068a5a52dfddbd85d9798c10f66bdc9ababb7cd9bdd",
+  "sha256_actual": "a4b5eb8a0f791bd5044ac5bd1596d7efa520a2a287fc718e178b15526658f14d"
+}
