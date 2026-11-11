@@ -12,4 +12,4 @@ Un ebook ya descargado no se borra sin que el usuario lo pida en ese mismo momen
 
 | Fecha | Motivo | Intervención | Estado | Evidencia |
 | --- | --- | --- | --- | --- |
-| 2026-11-10 | metadatos | Se corrigió el título de `BASE/PDF ES idX69qq.pdf` en Info y XMP conforme a la portadilla: «Leyes para todos los días». El texto, los objetos de página y los marcadores coinciden con el original. | reparado | `.traductor/Metadatos PDF 2026-11-10.json` |
+| 2026-11-10 | metadatos | Se corrigió el título de `BASE/PDF ES idX69qq.pdf` en Info y XMP conforme a la portadilla: «Leyes para todos los días». El texto, los objetos de página y los marcadores coinciden con el original. El PDF se publicó en R2 y su espejo de 421 objetos se verificó por SHA-256 y HTTP 200. | reparado | `.traductor/Metadatos PDF 2026-11-10.json` |
